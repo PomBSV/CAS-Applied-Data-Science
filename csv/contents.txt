@@ -1,0 +1,64 @@
+Bundesamt für Sozialversicherungen, Bereich Mathematik 
+Statistik der Ergänzungsleistungen zur AHV und IV 
+
+
+                                                   The CONTENTS Procedure                                                    
+                                                                                                                             
+          Data Set Name        WORK.DB_NEW_P_SB                                         Observations          51992          
+          Member Type          DATA                                                     Variables             20             
+          Engine               V9                                                       Indexes               0              
+          Created              28.08.2019 17:18:34                                      Observation Length    104            
+          Last Modified        28.08.2019 17:18:34                                      Deleted Observations  0              
+          Protection                                                                    Compressed            NO             
+          Data Set Type                                                                 Sorted                NO             
+          Label                                                                                                              
+          Data Representation  SOLARIS_X86_64, LINUX_X86_64, ALPHA_TRU64, LINUX_IA64                                         
+          Encoding             latin9  European (ISO)                                                                        
+                                                                                                                             
+                                                                                                                             
+                                             Engine/Host Dependent Information                                               
+                                                                                                                             
+            Data Set Page Size          65536                                                                                
+            Number of Data Set Pages    83                                                                                   
+            First Data Page             1                                                                                    
+            Max Obs per Page            629                                                                                  
+            Obs in First Data Page      582                                                                                  
+            Number of Data Set Repairs  0                                                                                    
+            Filename                    /saswork/SAS_work9C9C0000105F_s029021a.adr.admin.ch/db_new_p_sb.sas7bdat             
+            Release Created             9.0401M5                                                                             
+            Host Created                Linux                                                                                
+            Inode Number                135366160                                                                            
+            Access Permission           rw-r-----                                                                            
+            Owner Name                  pom                                                                                  
+            File Size                   5MB                                                                                  
+            File Size (bytes)           5505024                                                                              
+                                                                                                                             
+                                                                                                                             
+                                         Alphabetic List of Variables and Attributes                                         
+                                                                                                                             
+         #    Variable    Type    Len    Format      Label                                                                   
+                                                                                                                             
+        19    capi        Num       3    Z1.         Genre du droit à l'allocation pour impotent                             
+         7    cdom        Num       3    Z3.         Domicile                                                                
+        14    cech        Num       3    Z2.         Echelle de rente                                                        
+         5    ceciv       Num       3    Z1.         Etat civil                                                              
+        10    cfrt        Num       3    Z1.         Fraction de rente                                                       
+         8    cgpr        Num       3    Z2.         Genre de prestation                                                     
+         2    cnat        Num       3    Z3.         Nationalité du numéro d'assuré principal                                
+        18    cprec       Num       3    Z1.         Survenance invalidité <25 ans ayant droit                               
+         6    cref        Num       3    Z1.         Code réfugié                                                            
+         4    csex1       Num       3    Z1.         Sexe du 1er numéro complémentaire                                       
+        13    csplit      Num       3    Z1.         Code revenu partagé (10ème révision)                                    
+         3    lagec       Num       3    3.          Age du bénéficiaire en décembre                                         
+        15    lajo        Num       8    2.          Durée de l'ajournement en mois                                          
+        16    lant        Num       8    3.          Durée de l'anticipation en mois (10ème révision)                        
+        12    lcot        Num       8    3.          Durée de cotisation pour calculer le RAM (nombre total de mois)         
+        17    mant        Num       8    COMMA12.    Réduction anticipation (10ème révision)                                 
+         9    mpr         Num       8    COMMA12.    Montant de la prestation                                                
+        11    mrev        Num       8    COMMA12.    Revenu annuel moyen déterminant (RAM)                                   
+         1    napref      Num       7    Z12.        Numéro d'assuré anonyme de référence                                    
+        20    y_regist    Num       8                                                                                        
+
+ 
+
+
